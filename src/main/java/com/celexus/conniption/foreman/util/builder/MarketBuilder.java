@@ -32,8 +32,7 @@ public class MarketBuilder extends APIBuilder
 {
 	private static final long serialVersionUID = -7542591696724178699L;
 
-	private MarketBuilder(Verb v)
-	{
+	private MarketBuilder(Verb v) {
 		verb = v;
 	}
 
